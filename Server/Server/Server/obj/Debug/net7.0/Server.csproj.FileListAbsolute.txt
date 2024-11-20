@@ -1,0 +1,66 @@
+D:\K9\Howkteam\Tutorial\Series Thuc Chien\Caro_Online\Server\Server\Server\bin\Debug\net7.0\appsettings.Development.json
+D:\K9\Howkteam\Tutorial\Series Thuc Chien\Caro_Online\Server\Server\Server\bin\Debug\net7.0\appsettings.json
+D:\K9\Howkteam\Tutorial\Series Thuc Chien\Caro_Online\Server\Server\Server\bin\Debug\net7.0\Server.exe
+D:\K9\Howkteam\Tutorial\Series Thuc Chien\Caro_Online\Server\Server\Server\bin\Debug\net7.0\Server.deps.json
+D:\K9\Howkteam\Tutorial\Series Thuc Chien\Caro_Online\Server\Server\Server\bin\Debug\net7.0\Server.runtimeconfig.json
+D:\K9\Howkteam\Tutorial\Series Thuc Chien\Caro_Online\Server\Server\Server\bin\Debug\net7.0\Server.dll
+D:\K9\Howkteam\Tutorial\Series Thuc Chien\Caro_Online\Server\Server\Server\bin\Debug\net7.0\Server.pdb
+D:\K9\Howkteam\Tutorial\Series Thuc Chien\Caro_Online\Server\Server\Server\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+D:\K9\Howkteam\Tutorial\Series Thuc Chien\Caro_Online\Server\Server\Server\bin\Debug\net7.0\Microsoft.OpenApi.dll
+D:\K9\Howkteam\Tutorial\Series Thuc Chien\Caro_Online\Server\Server\Server\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\K9\Howkteam\Tutorial\Series Thuc Chien\Caro_Online\Server\Server\Server\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\K9\Howkteam\Tutorial\Series Thuc Chien\Caro_Online\Server\Server\Server\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\K9\Howkteam\Tutorial\Series Thuc Chien\Caro_Online\Server\Server\Server\obj\Debug\net7.0\Server.csproj.AssemblyReference.cache
+D:\K9\Howkteam\Tutorial\Series Thuc Chien\Caro_Online\Server\Server\Server\obj\Debug\net7.0\Server.GeneratedMSBuildEditorConfig.editorconfig
+D:\K9\Howkteam\Tutorial\Series Thuc Chien\Caro_Online\Server\Server\Server\obj\Debug\net7.0\Server.AssemblyInfoInputs.cache
+D:\K9\Howkteam\Tutorial\Series Thuc Chien\Caro_Online\Server\Server\Server\obj\Debug\net7.0\Server.AssemblyInfo.cs
+D:\K9\Howkteam\Tutorial\Series Thuc Chien\Caro_Online\Server\Server\Server\obj\Debug\net7.0\Server.csproj.CoreCompileInputs.cache
+D:\K9\Howkteam\Tutorial\Series Thuc Chien\Caro_Online\Server\Server\Server\obj\Debug\net7.0\Server.MvcApplicationPartsAssemblyInfo.cs
+D:\K9\Howkteam\Tutorial\Series Thuc Chien\Caro_Online\Server\Server\Server\obj\Debug\net7.0\Server.MvcApplicationPartsAssemblyInfo.cache
+D:\K9\Howkteam\Tutorial\Series Thuc Chien\Caro_Online\Server\Server\Server\obj\Debug\net7.0\staticwebassets\msbuild.Server.Microsoft.AspNetCore.StaticWebAssets.props
+D:\K9\Howkteam\Tutorial\Series Thuc Chien\Caro_Online\Server\Server\Server\obj\Debug\net7.0\staticwebassets\msbuild.build.Server.props
+D:\K9\Howkteam\Tutorial\Series Thuc Chien\Caro_Online\Server\Server\Server\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Server.props
+D:\K9\Howkteam\Tutorial\Series Thuc Chien\Caro_Online\Server\Server\Server\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Server.props
+D:\K9\Howkteam\Tutorial\Series Thuc Chien\Caro_Online\Server\Server\Server\obj\Debug\net7.0\staticwebassets.pack.json
+D:\K9\Howkteam\Tutorial\Series Thuc Chien\Caro_Online\Server\Server\Server\obj\Debug\net7.0\staticwebassets.build.json
+D:\K9\Howkteam\Tutorial\Series Thuc Chien\Caro_Online\Server\Server\Server\obj\Debug\net7.0\staticwebassets.development.json
+D:\K9\Howkteam\Tutorial\Series Thuc Chien\Caro_Online\Server\Server\Server\obj\Debug\net7.0\scopedcss\bundle\Server.styles.css
+D:\K9\Howkteam\Tutorial\Series Thuc Chien\Caro_Online\Server\Server\Server\obj\Debug\net7.0\Server.csproj.CopyComplete
+D:\K9\Howkteam\Tutorial\Series Thuc Chien\Caro_Online\Server\Server\Server\obj\Debug\net7.0\Server.dll
+D:\K9\Howkteam\Tutorial\Series Thuc Chien\Caro_Online\Server\Server\Server\obj\Debug\net7.0\refint\Server.dll
+D:\K9\Howkteam\Tutorial\Series Thuc Chien\Caro_Online\Server\Server\Server\obj\Debug\net7.0\Server.pdb
+D:\K9\Howkteam\Tutorial\Series Thuc Chien\Caro_Online\Server\Server\Server\obj\Debug\net7.0\Server.genruntimeconfig.cache
+D:\K9\Howkteam\Tutorial\Series Thuc Chien\Caro_Online\Server\Server\Server\obj\Debug\net7.0\ref\Server.dll
+C:\Users\td7le\OneDrive\Máy tính\Server\Server\Server\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\td7le\OneDrive\Máy tính\Server\Server\Server\bin\Debug\net7.0\appsettings.json
+C:\Users\td7le\OneDrive\Máy tính\Server\Server\Server\bin\Debug\net7.0\Server.exe
+C:\Users\td7le\OneDrive\Máy tính\Server\Server\Server\bin\Debug\net7.0\Server.deps.json
+C:\Users\td7le\OneDrive\Máy tính\Server\Server\Server\bin\Debug\net7.0\Server.runtimeconfig.json
+C:\Users\td7le\OneDrive\Máy tính\Server\Server\Server\bin\Debug\net7.0\Server.dll
+C:\Users\td7le\OneDrive\Máy tính\Server\Server\Server\bin\Debug\net7.0\Server.pdb
+C:\Users\td7le\OneDrive\Máy tính\Server\Server\Server\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\td7le\OneDrive\Máy tính\Server\Server\Server\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\td7le\OneDrive\Máy tính\Server\Server\Server\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\td7le\OneDrive\Máy tính\Server\Server\Server\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\td7le\OneDrive\Máy tính\Server\Server\Server\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\td7le\OneDrive\Máy tính\Server\Server\Server\obj\Debug\net7.0\Server.csproj.AssemblyReference.cache
+C:\Users\td7le\OneDrive\Máy tính\Server\Server\Server\obj\Debug\net7.0\Server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\td7le\OneDrive\Máy tính\Server\Server\Server\obj\Debug\net7.0\Server.AssemblyInfoInputs.cache
+C:\Users\td7le\OneDrive\Máy tính\Server\Server\Server\obj\Debug\net7.0\Server.AssemblyInfo.cs
+C:\Users\td7le\OneDrive\Máy tính\Server\Server\Server\obj\Debug\net7.0\Server.csproj.CoreCompileInputs.cache
+C:\Users\td7le\OneDrive\Máy tính\Server\Server\Server\obj\Debug\net7.0\Server.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\td7le\OneDrive\Máy tính\Server\Server\Server\obj\Debug\net7.0\Server.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\td7le\OneDrive\Máy tính\Server\Server\Server\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\td7le\OneDrive\Máy tính\Server\Server\Server\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\td7le\OneDrive\Máy tính\Server\Server\Server\obj\Debug\net7.0\staticwebassets\msbuild.Server.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\td7le\OneDrive\Máy tính\Server\Server\Server\obj\Debug\net7.0\staticwebassets\msbuild.build.Server.props
+C:\Users\td7le\OneDrive\Máy tính\Server\Server\Server\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Server.props
+C:\Users\td7le\OneDrive\Máy tính\Server\Server\Server\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Server.props
+C:\Users\td7le\OneDrive\Máy tính\Server\Server\Server\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\td7le\OneDrive\Máy tính\Server\Server\Server\obj\Debug\net7.0\scopedcss\bundle\Server.styles.css
+C:\Users\td7le\OneDrive\Máy tính\Server\Server\Server\obj\Debug\net7.0\Server.csproj.Up2Date
+C:\Users\td7le\OneDrive\Máy tính\Server\Server\Server\obj\Debug\net7.0\Server.dll
+C:\Users\td7le\OneDrive\Máy tính\Server\Server\Server\obj\Debug\net7.0\refint\Server.dll
+C:\Users\td7le\OneDrive\Máy tính\Server\Server\Server\obj\Debug\net7.0\Server.pdb
+C:\Users\td7le\OneDrive\Máy tính\Server\Server\Server\obj\Debug\net7.0\Server.genruntimeconfig.cache
+C:\Users\td7le\OneDrive\Máy tính\Server\Server\Server\obj\Debug\net7.0\ref\Server.dll

@@ -1,0 +1,128 @@
+D:\K9\Howkteam\Tutorial\Series Thuc Chien\Caro_Online\Caro_Online\Caro_Online\bin\Debug\net7.0-windows\Caro_Online.exe
+D:\K9\Howkteam\Tutorial\Series Thuc Chien\Caro_Online\Caro_Online\Caro_Online\bin\Debug\net7.0-windows\Caro_Online.deps.json
+D:\K9\Howkteam\Tutorial\Series Thuc Chien\Caro_Online\Caro_Online\Caro_Online\bin\Debug\net7.0-windows\Caro_Online.runtimeconfig.json
+D:\K9\Howkteam\Tutorial\Series Thuc Chien\Caro_Online\Caro_Online\Caro_Online\bin\Debug\net7.0-windows\Caro_Online.dll
+D:\K9\Howkteam\Tutorial\Series Thuc Chien\Caro_Online\Caro_Online\Caro_Online\bin\Debug\net7.0-windows\Caro_Online.pdb
+D:\K9\Howkteam\Tutorial\Series Thuc Chien\Caro_Online\Caro_Online\Caro_Online\obj\Debug\net7.0-windows\MainWindow.g.cs
+D:\K9\Howkteam\Tutorial\Series Thuc Chien\Caro_Online\Caro_Online\Caro_Online\obj\Debug\net7.0-windows\App.g.cs
+D:\K9\Howkteam\Tutorial\Series Thuc Chien\Caro_Online\Caro_Online\Caro_Online\obj\Debug\net7.0-windows\Caro_Online_MarkupCompile.cache
+D:\K9\Howkteam\Tutorial\Series Thuc Chien\Caro_Online\Caro_Online\Caro_Online\obj\Debug\net7.0-windows\Caro_Online_MarkupCompile.lref
+D:\K9\Howkteam\Tutorial\Series Thuc Chien\Caro_Online\Caro_Online\Caro_Online\obj\Debug\net7.0-windows\MainWindow.baml
+D:\K9\Howkteam\Tutorial\Series Thuc Chien\Caro_Online\Caro_Online\Caro_Online\obj\Debug\net7.0-windows\Caro_Online.g.resources
+D:\K9\Howkteam\Tutorial\Series Thuc Chien\Caro_Online\Caro_Online\Caro_Online\obj\Debug\net7.0-windows\Caro_Online.GeneratedMSBuildEditorConfig.editorconfig
+D:\K9\Howkteam\Tutorial\Series Thuc Chien\Caro_Online\Caro_Online\Caro_Online\obj\Debug\net7.0-windows\Caro_Online.AssemblyInfoInputs.cache
+D:\K9\Howkteam\Tutorial\Series Thuc Chien\Caro_Online\Caro_Online\Caro_Online\obj\Debug\net7.0-windows\Caro_Online.AssemblyInfo.cs
+D:\K9\Howkteam\Tutorial\Series Thuc Chien\Caro_Online\Caro_Online\Caro_Online\obj\Debug\net7.0-windows\Caro_Online.csproj.CoreCompileInputs.cache
+D:\K9\Howkteam\Tutorial\Series Thuc Chien\Caro_Online\Caro_Online\Caro_Online\obj\Debug\net7.0-windows\Caro_Online.dll
+D:\K9\Howkteam\Tutorial\Series Thuc Chien\Caro_Online\Caro_Online\Caro_Online\obj\Debug\net7.0-windows\refint\Caro_Online.dll
+D:\K9\Howkteam\Tutorial\Series Thuc Chien\Caro_Online\Caro_Online\Caro_Online\obj\Debug\net7.0-windows\Caro_Online.pdb
+D:\K9\Howkteam\Tutorial\Series Thuc Chien\Caro_Online\Caro_Online\Caro_Online\obj\Debug\net7.0-windows\Caro_Online.genruntimeconfig.cache
+D:\K9\Howkteam\Tutorial\Series Thuc Chien\Caro_Online\Caro_Online\Caro_Online\obj\Debug\net7.0-windows\ref\Caro_Online.dll
+D:\K9\Howkteam\Tutorial\Series Thuc Chien\Caro_Online\Caro_Online\Caro_Online\obj\Debug\net7.0-windows\Caro_Online.csproj.AssemblyReference.cache
+D:\K9\Howkteam\Tutorial\Series Thuc Chien\Caro_Online\Caro_Online\Caro_Online\bin\Debug\net7.0-windows\Microsoft.AspNetCore.Authentication.Abstractions.dll
+D:\K9\Howkteam\Tutorial\Series Thuc Chien\Caro_Online\Caro_Online\Caro_Online\bin\Debug\net7.0-windows\Microsoft.AspNetCore.Authorization.dll
+D:\K9\Howkteam\Tutorial\Series Thuc Chien\Caro_Online\Caro_Online\Caro_Online\bin\Debug\net7.0-windows\Microsoft.AspNetCore.Authorization.Policy.dll
+D:\K9\Howkteam\Tutorial\Series Thuc Chien\Caro_Online\Caro_Online\Caro_Online\bin\Debug\net7.0-windows\Microsoft.AspNetCore.Components.dll
+D:\K9\Howkteam\Tutorial\Series Thuc Chien\Caro_Online\Caro_Online\Caro_Online\bin\Debug\net7.0-windows\Microsoft.AspNetCore.Connections.Abstractions.dll
+D:\K9\Howkteam\Tutorial\Series Thuc Chien\Caro_Online\Caro_Online\Caro_Online\bin\Debug\net7.0-windows\Microsoft.AspNetCore.Hosting.Abstractions.dll
+D:\K9\Howkteam\Tutorial\Series Thuc Chien\Caro_Online\Caro_Online\Caro_Online\bin\Debug\net7.0-windows\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+D:\K9\Howkteam\Tutorial\Series Thuc Chien\Caro_Online\Caro_Online\Caro_Online\bin\Debug\net7.0-windows\Microsoft.AspNetCore.Http.dll
+D:\K9\Howkteam\Tutorial\Series Thuc Chien\Caro_Online\Caro_Online\Caro_Online\bin\Debug\net7.0-windows\Microsoft.AspNetCore.Http.Abstractions.dll
+D:\K9\Howkteam\Tutorial\Series Thuc Chien\Caro_Online\Caro_Online\Caro_Online\bin\Debug\net7.0-windows\Microsoft.AspNetCore.Http.Connections.dll
+D:\K9\Howkteam\Tutorial\Series Thuc Chien\Caro_Online\Caro_Online\Caro_Online\bin\Debug\net7.0-windows\Microsoft.AspNetCore.Http.Connections.Client.dll
+D:\K9\Howkteam\Tutorial\Series Thuc Chien\Caro_Online\Caro_Online\Caro_Online\bin\Debug\net7.0-windows\Microsoft.AspNetCore.Http.Connections.Common.dll
+D:\K9\Howkteam\Tutorial\Series Thuc Chien\Caro_Online\Caro_Online\Caro_Online\bin\Debug\net7.0-windows\Microsoft.AspNetCore.Http.Extensions.dll
+D:\K9\Howkteam\Tutorial\Series Thuc Chien\Caro_Online\Caro_Online\Caro_Online\bin\Debug\net7.0-windows\Microsoft.AspNetCore.Http.Features.dll
+D:\K9\Howkteam\Tutorial\Series Thuc Chien\Caro_Online\Caro_Online\Caro_Online\bin\Debug\net7.0-windows\Microsoft.AspNetCore.Metadata.dll
+D:\K9\Howkteam\Tutorial\Series Thuc Chien\Caro_Online\Caro_Online\Caro_Online\bin\Debug\net7.0-windows\Microsoft.AspNetCore.Routing.dll
+D:\K9\Howkteam\Tutorial\Series Thuc Chien\Caro_Online\Caro_Online\Caro_Online\bin\Debug\net7.0-windows\Microsoft.AspNetCore.Routing.Abstractions.dll
+D:\K9\Howkteam\Tutorial\Series Thuc Chien\Caro_Online\Caro_Online\Caro_Online\bin\Debug\net7.0-windows\Microsoft.AspNetCore.SignalR.dll
+D:\K9\Howkteam\Tutorial\Series Thuc Chien\Caro_Online\Caro_Online\Caro_Online\bin\Debug\net7.0-windows\Microsoft.AspNetCore.SignalR.Client.dll
+D:\K9\Howkteam\Tutorial\Series Thuc Chien\Caro_Online\Caro_Online\Caro_Online\bin\Debug\net7.0-windows\Microsoft.AspNetCore.SignalR.Client.Core.dll
+D:\K9\Howkteam\Tutorial\Series Thuc Chien\Caro_Online\Caro_Online\Caro_Online\bin\Debug\net7.0-windows\Microsoft.AspNetCore.SignalR.Common.dll
+D:\K9\Howkteam\Tutorial\Series Thuc Chien\Caro_Online\Caro_Online\Caro_Online\bin\Debug\net7.0-windows\Microsoft.AspNetCore.SignalR.Core.dll
+D:\K9\Howkteam\Tutorial\Series Thuc Chien\Caro_Online\Caro_Online\Caro_Online\bin\Debug\net7.0-windows\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+D:\K9\Howkteam\Tutorial\Series Thuc Chien\Caro_Online\Caro_Online\Caro_Online\bin\Debug\net7.0-windows\Microsoft.AspNetCore.WebSockets.dll
+D:\K9\Howkteam\Tutorial\Series Thuc Chien\Caro_Online\Caro_Online\Caro_Online\bin\Debug\net7.0-windows\Microsoft.AspNetCore.WebUtilities.dll
+D:\K9\Howkteam\Tutorial\Series Thuc Chien\Caro_Online\Caro_Online\Caro_Online\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\K9\Howkteam\Tutorial\Series Thuc Chien\Caro_Online\Caro_Online\Caro_Online\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\K9\Howkteam\Tutorial\Series Thuc Chien\Caro_Online\Caro_Online\Caro_Online\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\K9\Howkteam\Tutorial\Series Thuc Chien\Caro_Online\Caro_Online\Caro_Online\bin\Debug\net7.0-windows\Microsoft.Extensions.Features.dll
+D:\K9\Howkteam\Tutorial\Series Thuc Chien\Caro_Online\Caro_Online\Caro_Online\bin\Debug\net7.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\K9\Howkteam\Tutorial\Series Thuc Chien\Caro_Online\Caro_Online\Caro_Online\bin\Debug\net7.0-windows\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\K9\Howkteam\Tutorial\Series Thuc Chien\Caro_Online\Caro_Online\Caro_Online\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.dll
+D:\K9\Howkteam\Tutorial\Series Thuc Chien\Caro_Online\Caro_Online\Caro_Online\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\K9\Howkteam\Tutorial\Series Thuc Chien\Caro_Online\Caro_Online\Caro_Online\bin\Debug\net7.0-windows\Microsoft.Extensions.ObjectPool.dll
+D:\K9\Howkteam\Tutorial\Series Thuc Chien\Caro_Online\Caro_Online\Caro_Online\bin\Debug\net7.0-windows\Microsoft.Extensions.Options.dll
+D:\K9\Howkteam\Tutorial\Series Thuc Chien\Caro_Online\Caro_Online\Caro_Online\bin\Debug\net7.0-windows\Microsoft.Extensions.Primitives.dll
+D:\K9\Howkteam\Tutorial\Series Thuc Chien\Caro_Online\Caro_Online\Caro_Online\bin\Debug\net7.0-windows\Microsoft.JSInterop.dll
+D:\K9\Howkteam\Tutorial\Series Thuc Chien\Caro_Online\Caro_Online\Caro_Online\bin\Debug\net7.0-windows\Microsoft.Net.Http.Headers.dll
+D:\K9\Howkteam\Tutorial\Series Thuc Chien\Caro_Online\Caro_Online\Caro_Online\bin\Debug\net7.0-windows\Newtonsoft.Json.dll
+D:\K9\Howkteam\Tutorial\Series Thuc Chien\Caro_Online\Caro_Online\Caro_Online\bin\Debug\net7.0-windows\Microsoft.AspNetCore.Components.Web.Extensions.dll
+D:\K9\Howkteam\Tutorial\Series Thuc Chien\Caro_Online\Caro_Online\Caro_Online\bin\Debug\net7.0-windows\System.IO.Pipelines.dll
+D:\K9\Howkteam\Tutorial\Series Thuc Chien\Caro_Online\Caro_Online\Caro_Online\bin\Debug\net7.0-windows\System.Net.WebSockets.WebSocketProtocol.dll
+D:\K9\Howkteam\Tutorial\Series Thuc Chien\Caro_Online\Caro_Online\Caro_Online\obj\Debug\net7.0-windows\Caro_Online.csproj.CopyComplete
+C:\Users\td7le\OneDrive\Máy tính\Caro_Online\Caro_Online\bin\Debug\net7.0-windows\Caro_Online.exe
+C:\Users\td7le\OneDrive\Máy tính\Caro_Online\Caro_Online\bin\Debug\net7.0-windows\Caro_Online.deps.json
+C:\Users\td7le\OneDrive\Máy tính\Caro_Online\Caro_Online\bin\Debug\net7.0-windows\Caro_Online.runtimeconfig.json
+C:\Users\td7le\OneDrive\Máy tính\Caro_Online\Caro_Online\bin\Debug\net7.0-windows\Caro_Online.dll
+C:\Users\td7le\OneDrive\Máy tính\Caro_Online\Caro_Online\bin\Debug\net7.0-windows\Caro_Online.pdb
+C:\Users\td7le\OneDrive\Máy tính\Caro_Online\Caro_Online\bin\Debug\net7.0-windows\Microsoft.AspNetCore.Authentication.Abstractions.dll
+C:\Users\td7le\OneDrive\Máy tính\Caro_Online\Caro_Online\bin\Debug\net7.0-windows\Microsoft.AspNetCore.Authorization.dll
+C:\Users\td7le\OneDrive\Máy tính\Caro_Online\Caro_Online\bin\Debug\net7.0-windows\Microsoft.AspNetCore.Authorization.Policy.dll
+C:\Users\td7le\OneDrive\Máy tính\Caro_Online\Caro_Online\bin\Debug\net7.0-windows\Microsoft.AspNetCore.Components.dll
+C:\Users\td7le\OneDrive\Máy tính\Caro_Online\Caro_Online\bin\Debug\net7.0-windows\Microsoft.AspNetCore.Connections.Abstractions.dll
+C:\Users\td7le\OneDrive\Máy tính\Caro_Online\Caro_Online\bin\Debug\net7.0-windows\Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:\Users\td7le\OneDrive\Máy tính\Caro_Online\Caro_Online\bin\Debug\net7.0-windows\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+C:\Users\td7le\OneDrive\Máy tính\Caro_Online\Caro_Online\bin\Debug\net7.0-windows\Microsoft.AspNetCore.Http.dll
+C:\Users\td7le\OneDrive\Máy tính\Caro_Online\Caro_Online\bin\Debug\net7.0-windows\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\td7le\OneDrive\Máy tính\Caro_Online\Caro_Online\bin\Debug\net7.0-windows\Microsoft.AspNetCore.Http.Connections.dll
+C:\Users\td7le\OneDrive\Máy tính\Caro_Online\Caro_Online\bin\Debug\net7.0-windows\Microsoft.AspNetCore.Http.Connections.Client.dll
+C:\Users\td7le\OneDrive\Máy tính\Caro_Online\Caro_Online\bin\Debug\net7.0-windows\Microsoft.AspNetCore.Http.Connections.Common.dll
+C:\Users\td7le\OneDrive\Máy tính\Caro_Online\Caro_Online\bin\Debug\net7.0-windows\Microsoft.AspNetCore.Http.Extensions.dll
+C:\Users\td7le\OneDrive\Máy tính\Caro_Online\Caro_Online\bin\Debug\net7.0-windows\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\td7le\OneDrive\Máy tính\Caro_Online\Caro_Online\bin\Debug\net7.0-windows\Microsoft.AspNetCore.Metadata.dll
+C:\Users\td7le\OneDrive\Máy tính\Caro_Online\Caro_Online\bin\Debug\net7.0-windows\Microsoft.AspNetCore.Routing.dll
+C:\Users\td7le\OneDrive\Máy tính\Caro_Online\Caro_Online\bin\Debug\net7.0-windows\Microsoft.AspNetCore.Routing.Abstractions.dll
+C:\Users\td7le\OneDrive\Máy tính\Caro_Online\Caro_Online\bin\Debug\net7.0-windows\Microsoft.AspNetCore.SignalR.dll
+C:\Users\td7le\OneDrive\Máy tính\Caro_Online\Caro_Online\bin\Debug\net7.0-windows\Microsoft.AspNetCore.SignalR.Client.dll
+C:\Users\td7le\OneDrive\Máy tính\Caro_Online\Caro_Online\bin\Debug\net7.0-windows\Microsoft.AspNetCore.SignalR.Client.Core.dll
+C:\Users\td7le\OneDrive\Máy tính\Caro_Online\Caro_Online\bin\Debug\net7.0-windows\Microsoft.AspNetCore.SignalR.Common.dll
+C:\Users\td7le\OneDrive\Máy tính\Caro_Online\Caro_Online\bin\Debug\net7.0-windows\Microsoft.AspNetCore.SignalR.Core.dll
+C:\Users\td7le\OneDrive\Máy tính\Caro_Online\Caro_Online\bin\Debug\net7.0-windows\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+C:\Users\td7le\OneDrive\Máy tính\Caro_Online\Caro_Online\bin\Debug\net7.0-windows\Microsoft.AspNetCore.WebSockets.dll
+C:\Users\td7le\OneDrive\Máy tính\Caro_Online\Caro_Online\bin\Debug\net7.0-windows\Microsoft.AspNetCore.WebUtilities.dll
+C:\Users\td7le\OneDrive\Máy tính\Caro_Online\Caro_Online\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\td7le\OneDrive\Máy tính\Caro_Online\Caro_Online\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\td7le\OneDrive\Máy tính\Caro_Online\Caro_Online\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\td7le\OneDrive\Máy tính\Caro_Online\Caro_Online\bin\Debug\net7.0-windows\Microsoft.Extensions.Features.dll
+C:\Users\td7le\OneDrive\Máy tính\Caro_Online\Caro_Online\bin\Debug\net7.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\td7le\OneDrive\Máy tính\Caro_Online\Caro_Online\bin\Debug\net7.0-windows\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\td7le\OneDrive\Máy tính\Caro_Online\Caro_Online\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\td7le\OneDrive\Máy tính\Caro_Online\Caro_Online\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\td7le\OneDrive\Máy tính\Caro_Online\Caro_Online\bin\Debug\net7.0-windows\Microsoft.Extensions.ObjectPool.dll
+C:\Users\td7le\OneDrive\Máy tính\Caro_Online\Caro_Online\bin\Debug\net7.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\td7le\OneDrive\Máy tính\Caro_Online\Caro_Online\bin\Debug\net7.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\td7le\OneDrive\Máy tính\Caro_Online\Caro_Online\bin\Debug\net7.0-windows\Microsoft.JSInterop.dll
+C:\Users\td7le\OneDrive\Máy tính\Caro_Online\Caro_Online\bin\Debug\net7.0-windows\Microsoft.Net.Http.Headers.dll
+C:\Users\td7le\OneDrive\Máy tính\Caro_Online\Caro_Online\bin\Debug\net7.0-windows\Newtonsoft.Json.dll
+C:\Users\td7le\OneDrive\Máy tính\Caro_Online\Caro_Online\bin\Debug\net7.0-windows\Microsoft.AspNetCore.Components.Web.Extensions.dll
+C:\Users\td7le\OneDrive\Máy tính\Caro_Online\Caro_Online\bin\Debug\net7.0-windows\System.IO.Pipelines.dll
+C:\Users\td7le\OneDrive\Máy tính\Caro_Online\Caro_Online\bin\Debug\net7.0-windows\System.Net.WebSockets.WebSocketProtocol.dll
+C:\Users\td7le\OneDrive\Máy tính\Caro_Online\Caro_Online\obj\Debug\net7.0-windows\Caro_Online.csproj.AssemblyReference.cache
+C:\Users\td7le\OneDrive\Máy tính\Caro_Online\Caro_Online\obj\Debug\net7.0-windows\MainWindow.g.cs
+C:\Users\td7le\OneDrive\Máy tính\Caro_Online\Caro_Online\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\td7le\OneDrive\Máy tính\Caro_Online\Caro_Online\obj\Debug\net7.0-windows\Caro_Online_MarkupCompile.cache
+C:\Users\td7le\OneDrive\Máy tính\Caro_Online\Caro_Online\obj\Debug\net7.0-windows\Caro_Online_MarkupCompile.lref
+C:\Users\td7le\OneDrive\Máy tính\Caro_Online\Caro_Online\obj\Debug\net7.0-windows\MainWindow.baml
+C:\Users\td7le\OneDrive\Máy tính\Caro_Online\Caro_Online\obj\Debug\net7.0-windows\Caro_Online.g.resources
+C:\Users\td7le\OneDrive\Máy tính\Caro_Online\Caro_Online\obj\Debug\net7.0-windows\Caro_Online.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\td7le\OneDrive\Máy tính\Caro_Online\Caro_Online\obj\Debug\net7.0-windows\Caro_Online.AssemblyInfoInputs.cache
+C:\Users\td7le\OneDrive\Máy tính\Caro_Online\Caro_Online\obj\Debug\net7.0-windows\Caro_Online.AssemblyInfo.cs
+C:\Users\td7le\OneDrive\Máy tính\Caro_Online\Caro_Online\obj\Debug\net7.0-windows\Caro_Online.csproj.CoreCompileInputs.cache
+C:\Users\td7le\OneDrive\Máy tính\Caro_Online\Caro_Online\obj\Debug\net7.0-windows\Caro_Onl.08316125.Up2Date
+C:\Users\td7le\OneDrive\Máy tính\Caro_Online\Caro_Online\obj\Debug\net7.0-windows\Caro_Online.dll
+C:\Users\td7le\OneDrive\Máy tính\Caro_Online\Caro_Online\obj\Debug\net7.0-windows\refint\Caro_Online.dll
+C:\Users\td7le\OneDrive\Máy tính\Caro_Online\Caro_Online\obj\Debug\net7.0-windows\Caro_Online.pdb
+C:\Users\td7le\OneDrive\Máy tính\Caro_Online\Caro_Online\obj\Debug\net7.0-windows\Caro_Online.genruntimeconfig.cache
+C:\Users\td7le\OneDrive\Máy tính\Caro_Online\Caro_Online\obj\Debug\net7.0-windows\ref\Caro_Online.dll
